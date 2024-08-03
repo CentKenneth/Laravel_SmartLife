@@ -29,8 +29,6 @@ class DatabaseSeeder extends Seeder
             'place_of_birth' => 'Davao City',
             'gender' => 'Male',
             'civil_status' => 'Single'
-            
-            
         ]);
     }
 }
